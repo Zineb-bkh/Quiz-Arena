@@ -1,8 +1,8 @@
-**Quiz Arena**
+# Quiz Arena
 Quiz Arena est un mini jeu de quiz interactif développé avec HTML, TailwindCSS et JavaScript.
 Le joueur doit répondre rapidement à des questions de culture générale pour obtenir le meilleur score possible.
 
-**Fonctionnalités**
+## Fonctionnalités
 - Interface moderne avec TailwindCSS
 - Chronomètre de 15 secondes par question
 - Score basé sur la rapidité
@@ -11,7 +11,7 @@ Le joueur doit répondre rapidement à des questions de culture générale pour 
 - Sauvegarde du meilleur score avec localStorage
 - Classement par niveau (Débutant, Challenger, Expert, Master)
 
-**Fonctionnement**
+## Fonctionnement
 1. Cliquer sur COMMENCER pour lancer la partie.
 2. Répondre aux 10 questions avant la fin du temps.
 3. Les points sont calculés avec :
@@ -22,24 +22,24 @@ Le joueur doit répondre rapidement à des questions de culture générale pour 
  + son meilleur score
  + son rang.
 
-**Technologies utilisées**
+## Technologies utilisées
 - HTML5
 - CSS3
 - TailwindCSS
 - JavaScript
 - LocalStorage
 
-**Structure du projet**
+## Structure du projet
 
 | quiz-arena/ |
 |------|
 | index.html |
 | README.md  
 
-**Utilisation**
+## Utilisation
 1. Télécharger le projet.
 2. Ouvrir index.html dans un navigateur.
 Aucune installation n'est nécessaire.
 
-**Auteur**
+# Auteur
 Projet réalisé par **Zineb Boukhou.**
