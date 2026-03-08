@@ -30,10 +30,11 @@ Le joueur doit répondre rapidement à des questions de culture générale pour 
 - LocalStorage
 
 **Structure du projet**
-     quiz-arena/
-     │
-     ├── index.html
-     └── README.md
+
+| quiz-arena/ |
+|------|
+| index.html |
+| README.md  
 
 **Utilisation**
 1. Télécharger le projet.
